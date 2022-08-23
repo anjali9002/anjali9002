@@ -97,6 +97,10 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+## Competetive Programming
+<p float="center">
+<img height="270em" src="https://leetcard.jacoblin.cool/Vipul2504?theme=dark&font=Karma&ext=contest" />
+</p>
 
 <br/>
 <br/>
