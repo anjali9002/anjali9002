@@ -53,7 +53,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 <!--   <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab"></a> -->
 <!--     <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></a> -->
-<!--    <a href="#"><img alt="SC" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a> -->
+   <a href="#"><img alt="SC" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
 </p>
 
 
@@ -105,10 +105,10 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 <br/>
 <br/>
 
-<a href="https://github.com/Vipul2504/github-readme-activity-graph"><img alt="Vipul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vipul2504&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+[![Vipul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vipul2504&theme=react-dark)](https://github.com/Vipul2504/github-readme-activity-graph)
+<br/>
+<br/>
 
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
