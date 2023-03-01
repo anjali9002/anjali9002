@@ -106,7 +106,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 <br/>
 <br/>
 
-[![Vipul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vipul2504&theme=react-dark)](https://github.com/Vipul2504/github-readme-activity-graph)
+[![Vipul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vipul2504&theme=tokyo-night)](https://github.com/Vipul2504/github-readme-activity-graph)
 <br/>
 <br/>
 
