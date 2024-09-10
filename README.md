@@ -45,7 +45,7 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/anjali9002/github-readme-streak-stats">
+    <a href="https://github.com/itsanjali2410/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anjali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali9002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -71,10 +71,4 @@
    <a href="mailto:anjalig9002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/anjalig9002/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://t.snapchat.com/6f4Nf16x"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"></a>
-   <a href="https://discord.gg/4CdGqcxQ"><img src="https://img.shields.io/badge/Discord-Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://hashnode.com/@Vipul25"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username
