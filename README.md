@@ -1,6 +1,7 @@
 <a href="#">
-    <img width="70%" height="50%" align="center" src="[https://media.giphy.com/media/your-new-image-id/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjZzgwNTk5dHlwMnFhMDljanhuNzFuM3Jma2h4Mm1laWJnYzlzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif)" />
+    <img width="70%" height="50%" align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjZzgwNTk5dHlwMnFhMDljanhuNzFuM3Jma2h4Mm1laWJnYzlzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif" />
 </a>
+
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anjali Gupta</h1>
 <h3 align="center">I'm a passionate Software Developer Enthusiast from India.</h3>
@@ -11,7 +12,7 @@
 - 🌱 I’m currently learning **Full Stack development and Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at **My Portfolio**
-- 📫 How to reach me **anjalig9002@gmail.com**
+- 📫 How to reach me **itsanjali2410@gmail.com**
 - ⚡ **Passion Makes It Possible**
 
 ## 🚀 Languages:
